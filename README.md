@@ -8,12 +8,15 @@
 
 - :school: Soy un estudiante avanzado de la carrera - "Analista Desarrollador Universitario de Sistemas de Información" [Universidad Tecnológica Nacional - Facultad Regional Resistencia](https://www.frre.utn.edu.ar/academica)
 
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-<br>
+
+- :technologist: Me gusta implementar diferentes soluciones para un mismo problema, siempre en busca de la solución mas optima.
+
+- :computer: Soy un programador entusiasta, me gusta indagar a fondo sobre cada nueva herramienta que aprendo e implementar esos nuevos conocimientos.
+  
+- :student: Me encuentro aprendiendo el lenguaje `JAVA`.
+  
+- :nerd_face: Siempre me gusta estar al tanto sobre nuevas tecnológias y continuamente aprender cosas nuevas.
+  
+- :thinking: Me encuentro en busca de `oportunidades de trabajo` [linkedin](https://www.linkedin.com/in/cristian-alejandro-cristaldo).
+
 
