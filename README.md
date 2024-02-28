@@ -2,7 +2,8 @@
 <h1 align="center">Hola! soy Cristian</h1>
 </div>
 
-<h3 align="center">Analista de Sistemas | Programador JAVA</h3>
+<h3 align="center">Analista de Sistemas | Programador <img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">
+</h3>
 
 ## Sobre mi
 
@@ -22,7 +23,7 @@
 - :thinking: Me encuentro en busca de `oportunidades de trabajo`.
 
 
-## Conocimientos: [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+## Conocimientos: 
 
 - Fundamentos de JAVA
 
