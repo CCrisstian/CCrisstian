@@ -28,6 +28,8 @@
 - Fundamentos de JAVA
 
 - POO (Programación Orientada a Objetos)
+
+- UML
   
 - Java Generics
   
