@@ -17,6 +17,4 @@
   
 - :nerd_face: Siempre me gusta estar al tanto sobre nuevas tecnológias y continuamente aprender cosas nuevas.
   
-- :thinking: Me encuentro en busca de `oportunidades de trabajo` [linkedin](https://www.linkedin.com/in/cristian-alejandro-cristaldo).
-
-
+- :thinking: Me encuentro en busca de `oportunidades de trabajo` [linkedin/CristianCristaldo](https://www.linkedin.com/in/cristian-alejandro-cristaldo).
