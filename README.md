@@ -37,9 +37,6 @@
 - Threads
 
 -  Java  8 Programación Funcional
-    - Expresiones Lambda
-    - API Stream
-    - Optional
 
 -  Java 8  Date Time
 
