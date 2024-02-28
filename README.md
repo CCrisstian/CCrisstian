@@ -2,6 +2,8 @@
 <h1 align="center">Hola! soy Cristian</h1>
 </div>
 
+<h3 align="center">Analista de Sistemas | Programador JAVA</h3>
+
 ## Sobre mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -17,4 +19,35 @@
   
 - :nerd_face: Siempre me gusta estar al tanto sobre nuevas tecnológias y continuamente aprender cosas nuevas.
   
-- :thinking: Me encuentro en busca de `oportunidades de trabajo` [linkedin/CristianCristaldo](https://www.linkedin.com/in/cristian-alejandro-cristaldo).
+- :thinking: Me encuentro en busca de `oportunidades de trabajo`.
+
+
+## Conocimientos: [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+
+- Fundamentos de JAVA
+
+- POO (Programación Orientada a Objetos)
+  
+- Java Generics
+  
+- Manejo de excepciones
+  
+- Api de Colección de Java
+  
+- Threads
+
+-  Java  8 Programación Funcional
+    - Expresiones Lambda
+    - API Stream
+    - Optional
+
+-  Java 8  Date Time
+
+
+## Contacto:
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/cristian-alejandro-cristaldo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="crisstiann.c@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
