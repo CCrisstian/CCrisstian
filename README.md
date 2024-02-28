@@ -12,8 +12,6 @@
 - :school: Soy un estudiante avanzado de la carrera - "Analista Desarrollador Universitario de Sistemas de Información" [Universidad Tecnológica Nacional - Facultad Regional Resistencia](https://www.frre.utn.edu.ar/academica)
 
 
-- :technologist: Me gusta implementar diferentes soluciones para un mismo problema, siempre en busca de la solución mas optima.
-
 - :computer: Soy un programador entusiasta, me gusta indagar a fondo sobre cada nueva herramienta que aprendo e implementar esos nuevos conocimientos.
   
 - :student: Me encuentro aprendiendo el lenguaje `JAVA`.
