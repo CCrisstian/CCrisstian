@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: Soy un estudiante avanzado de la carrera - "Analista Desarrollador Universitario de Sistemas de Información" [Universidad Tecnológica Nacional - Facultad Regional Resistencia](https://www.frre.utn.edu.ar/academica)
+- :school: Estudiante avanzado de la carrera - "Analista Desarrollador Universitario de Sistemas de Información" [Universidad Tecnológica Nacional - Facultad Regional Resistencia](https://www.frre.utn.edu.ar/academica)
 
 
 - :computer: Programador entusiasta, me gusta indagar a fondo sobre cada nueva herramienta que aprendo e implementar esos nuevos conocimientos.
