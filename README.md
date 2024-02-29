@@ -25,19 +25,33 @@
 
 - POO (Programación Orientada a Objetos)
 
+- Patrones de Diseños
+
 - UML
-  
-- Java Generics
-  
-- Manejo de excepciones
-  
-- Api de Colección de Java
-  
-- Threads
 
--  Java  8 Programación Funcional
-
--  Java 8  Date Time
+- JUnit 5 y Mockito
+  
+- Threads (hilos) y aplicaciones concurrentes en Java
+  
+- Manejar errores haciendo uso de Excepciones
+  
+- Jakarta EE 9 (Java EE9) y Servlet/JSP con JDBC (Bases de Datos)
+  
+- Inyección de Dependencias y Contextos con Weld CDI de Jakarta EE 9
+  
+- Servlet/JSP
+  
+- JDBC
+  
+- Base de Datos
+  
+- Enterprise JavaBeans (EJB 4), JPA, API RESTful (JAX-RS), Web Services SOAP (JAX-WS), JSF, PrimeFaces, Seguridad JAAS, JBoss Wildfly
+  
+- Spring Framework 5
+  
+- Spring Boot y Data JPA
+  
+- Spring 5 y Angular + JPA + API Restful
 
 
 ## Contacto:
