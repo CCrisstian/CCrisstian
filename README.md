@@ -31,10 +31,6 @@
 
 - JUnit 5 y Mockito
   
-- Threads (hilos) y aplicaciones concurrentes en Java
-  
-- Manejar errores haciendo uso de Excepciones
-  
 - Jakarta EE 9 (Java EE9) y Servlet/JSP con JDBC (Bases de Datos)
   
 - Inyección de Dependencias y Contextos con Weld CDI de Jakarta EE 9
@@ -43,7 +39,7 @@
   
 - JDBC
   
-- Base de Datos
+- Base de Datos SQL
   
 - Enterprise JavaBeans (EJB 4), JPA, API RESTful (JAX-RS), Web Services SOAP (JAX-WS), JSF, PrimeFaces, Seguridad JAAS, JBoss Wildfly
   
