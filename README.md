@@ -21,34 +21,25 @@
 
 ## Conocimientos: 
 
-- Fundamentos de JAVA
+- Programación en Java:
+  - Programación orientada a objetos (POO)
+  - Programación funcional (Java 8, Expresiones Lambda, API Stream)
+  - Manejo de errores y excepciones
+  - Programación concurrente y manejo de hilos (Threads)
+  - Principios y patrones de diseño
+  - Pruebas unitarias (JUnit 5, Mockito)
+  - Bases de datos SQL
 
-- POO (Programación Orientada a Objetos)
-
-- Patrones de Diseños
-
-- UML
-
-- JUnit 5 y Mockito
-  
-- Jakarta EE 9 (Java EE9) y Servlet/JSP con JDBC (Bases de Datos)
-  
-- Inyección de Dependencias y Contextos con Weld CDI de Jakarta EE 9
-  
-- Servlet/JSP
-  
-- JDBC
-  
-- Base de Datos SQL
-  
-- Enterprise JavaBeans (EJB 4), JPA, API RESTful (JAX-RS), Web Services SOAP (JAX-WS), JSF, PrimeFaces, Seguridad JAAS, JBoss Wildfly
-  
-- Spring Framework 5
-  
-- Spring Boot y Data JPA
-  
-- Spring 5 y Angular + JPA + API Restful
-
+- Desarrollo Web:
+  - Jakarta EE 9:
+  - Servlet/JSP, JDBC
+  - CDI (Weld)
+  - EJB 4
+  - JAX-RS (API RESTful), JAX-WS (SOAP)
+  - JSF, PrimeFaces, Seguridad JAAS
+  - Spring Framework 5:
+  - Spring Boot, Data JPA
+  - Desarrollo Full Stack con Spring y Angular, API RESTful
 
 ## Contacto:
 <br>	
