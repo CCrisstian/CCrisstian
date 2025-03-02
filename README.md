@@ -26,20 +26,23 @@
   - Programación funcional (Java 8, Expresiones Lambda, API Stream)
   - Manejo de errores y excepciones
   - Programación concurrente y manejo de hilos (Threads)
-  - Principios y patrones de diseño
+  - Principios y Patrones de diseño
   - Pruebas unitarias (JUnit 5, Mockito)
-  - Bases de datos SQL
+  - Bases de datos SQL y NoSQL (MongoDB)
 
 - Desarrollo Web:
   - Jakarta EE 9:
-  - Servlet/JSP, JDBC
-  - CDI (Weld)
-  - EJB 4
-  - JAX-RS (API RESTful), JAX-WS (SOAP)
-  - JSF, PrimeFaces, Seguridad JAAS
-  - Spring Framework 5:
-  - Spring Boot, Data JPA
-  - Desarrollo Full Stack con Spring y Angular, API RESTful
+    - Servlet/JSP
+    - JDBC
+    - CDI (Weld)
+    - EJB 4
+    - JAX-RS (API RESTful), JAX-WS (SOAP)
+    - JSF, PrimeFaces
+    - Seguridad JAAS
+  - Spring Framework:
+    - Spring Framework 6 y Spring Boot 3.
+    - Spring Data JPA
+    - Desarrollo Full Stack con Spring y Angular, API RESTful
 
 ## Contacto:
 <br>	
