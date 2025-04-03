@@ -14,7 +14,7 @@
 
 - :computer: Programador entusiasta, me gusta indagar a fondo sobre cada nueva herramienta que aprendo e implementar esos nuevos conocimientos.
   
-- :student: Desarrollador `JAVA`.
+- Desarrollador `JAVA`.
     
 - :thinking: En busca de `oportunidades de trabajo`.
 
