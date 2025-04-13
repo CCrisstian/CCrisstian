@@ -2,8 +2,7 @@
 <h1 align="center">Hola! soy Cristian</h1>
 </div>
 
-<h3 align="center">Analista Desarrollador Universitario de Sistemas de Información | Java Developer <img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">
-</h3>
+<h3 align="center">Java Developer <img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100"> | Analista Desarrollador Universitario de Sistemas de Información</h3>
 
 ## Sobre mi
 
