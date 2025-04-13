@@ -8,40 +8,44 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: "Analista Desarrollador Universitario de Sistemas de Información" [Universidad Tecnológica Nacional - Facultad Regional Resistencia](https://www.frre.utn.edu.ar/academica)
+- 🎓 **Analista Desarrollador Universitario de Sistemas de Información** [Universidad Tecnológica Nacional - Facultad Regional Resistencia]
 
-
-- :computer: Programador entusiasta, me gusta indagar a fondo sobre cada nueva herramienta que aprendo e implementar esos nuevos conocimientos.
-  
-- Desarrollador `JAVA`.
+- 💻 **Desarrollador Java Backend** con enfoque en el desarrollo de **APIs RESTful**, **Bases de Datos** y **Aplicaciones Web** modernas.
+Apasionado por el aprendizaje continuo y la mejora constante. Me gusta explorar a fondo cada nueva herramienta que aprendo y aplicarla en proyectos reales.
     
-- :thinking: En busca de `oportunidades de trabajo`.
+- 🚀 Actualmente en búsqueda de mi primera experiencia laboral en IT.
+He trabajado en diversos proyectos académicos y personales utilizando tecnologías modernas del ecosistema Java.
 
 
-## Conocimientos: 
+## 🧠 **Conocimientos**: 
 
-- Programación en Java:
-  - Programación orientada a objetos (POO)
-  - Programación funcional (Java 8, Expresiones Lambda, API Stream)
-  - Manejo de errores y excepciones
-  - Programación concurrente y manejo de hilos (Threads)
-  - Principios y Patrones de diseño
-  - Pruebas unitarias (JUnit 5, Mockito)
-  - Bases de datos SQL y NoSQL (MongoDB)
+🔸 **Programación en Java**
+- Programación orientada a objetos (POO)
+- Programación funcional (Java 8, Expresiones Lambda, API Stream)
+- Manejo de errores y excepciones
+- Programación concurrente y manejo de hilos (Threads)
+- Principios y patrones de diseño
+- Pruebas unitarias: JUnit 5, Mockito
 
-- Desarrollo Web:
-  - Jakarta EE 9:
-    - Servlet/JSP
+🔸 **Bases de datos**
+  - SQL: MySQL
+  - NoSQL: MongoDB
+
+🔸 **Desarrollo Web**
+  - **Jakarta EE 9**:
+    - Servlets / JSP
     - JDBC
     - CDI (Weld)
     - EJB 4
-    - JAX-RS (API RESTful), JAX-WS (SOAP)
+    - JAX-RS (RESTful APIs), JAX-WS (SOAP)
     - JSF, PrimeFaces
-    - Seguridad JAAS
-  - Spring Framework:
-    - Spring Framework 6 y Spring Boot 3.
+    - Seguridad con JAAS
+  - **Spring Framework**:
+    - Spring Framework 6 y Spring Boot 3
     - Spring Data JPA
-    - Desarrollo Full Stack con Spring y Angular, API RESTful
+    - Spring Security
+    - Desarrollo Full Stack con Spring Boot + Angular
+    - Desarrollo Full Stack con Spring Boot + React
 
 ## Contacto:
 <br>	
