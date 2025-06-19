@@ -44,8 +44,8 @@ He trabajado en diversos proyectos acad√©micos y personales utilizando tecnolog√
     - Spring Framework 6 y Spring Boot 3
     - Spring Data JPA
     - Spring Security
-    - Desarrollo Full Stack con Spring Boot + Angular
-    - Desarrollo Full Stack con Spring Boot + React
+    - Desarrollo Full Stack Angular
+    - Desarrollo Full Stack React
 
 ## Contacto:
 <br>	
