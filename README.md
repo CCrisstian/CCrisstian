@@ -24,7 +24,7 @@ He trabajado en diversos proyectos académicos y personales utilizando tecnolog�
 - Programación funcional (Java 8, Expresiones Lambda, API Stream)
 - Manejo de errores y excepciones
 - Programación concurrente y manejo de hilos (Threads)
-- Principios y patrones de diseño
+- Principios SOLID y patrones de diseño
 - Pruebas unitarias: JUnit 5, Mockito
 
 🔸 **Bases de datos**
