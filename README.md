@@ -33,11 +33,11 @@ Soy un **Desarrollador Backend** de Argentina, apasionado por la creación de AP
   <a target="_blank" href="https://portafolio-cristaldo-cristian.vercel.app/">
     <img src="https://img.shields.io/badge/-Mi_Portafolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portafolio">
   </a>
-  &emsp;
+
   <a target="_blank" href="https://www.linkedin.com/in/cristian-alejandro-cristaldo/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &emsp;
+
   <a target="_blank" href="mailto:crisstiann.c@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
