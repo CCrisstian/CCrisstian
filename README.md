@@ -1,13 +1,10 @@
 <div align="center">
   <h1>Hola! soy Cristian Cristaldo</h1>
-  <h3>Java Developer <img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="35" style="vertical-align: middle;"> | Analista Desarrollador Universitario de Sistemas de Información</h3>
 </div>
 
-<br>
+<h3>Java Developer <img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="45" style="vertical-align: middle;"> | Analista Desarrollador Universitario de Sistemas de Información</h3>
 
-<picture> 
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Coding GIF">
-</picture>
+<br>
 
 ## 🚀 Sobre mí
 
@@ -29,16 +26,4 @@ Soy un **Desarrollador Backend** de Argentina, apasionado por la creación de AP
 
 ## 📬 Contacto
 
-<div align="left">
-  <a target="_blank" href="https://portafolio-cristaldo-cristian.vercel.app/">
-    <img src="https://img.shields.io/badge/-Mi_Portafolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portafolio">
-  </a>
-
-  <a target="_blank" href="https://www.linkedin.com/in/cristian-alejandro-cristaldo/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a target="_blank" href="mailto:crisstiann.c@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+<a target="_blank" href="https://portafolio-cristaldo-cristian.vercel.app/"><img src="https://img.shields.io/badge/-Mi_Portafolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portafolio"></a> <a target="_blank" href="https://www.linkedin.com/in/cristian-alejandro-cristaldo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a> <a target="_blank" href="mailto:crisstiann.c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
