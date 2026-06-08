@@ -1,56 +1,44 @@
-<div  align="center">
-<h1 align="center">Hola! soy Cristian</h1>
+<div align="center">
+  <h1>Hola! soy Cristian Cristaldo</h1>
+  <h3>Java Developer <img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="35" style="vertical-align: middle;"> | Analista Desarrollador Universitario de Sistemas de Información</h3>
 </div>
 
-<h3 align="center">Java Developer <img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100"> | Analista Desarrollador Universitario de Sistemas de Información</h3>
+<br>
 
-## Sobre mi
+<picture> 
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Coding GIF">
+</picture>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## 🚀 Sobre mí
 
-- 🎓 **Analista Desarrollador Universitario de Sistemas de Información** [Universidad Tecnológica Nacional - Facultad Regional Resistencia]
+Soy un **Desarrollador Backend** de Argentina, apasionado por la creación de APIs robustas, arquitecturas escalables y el aprendizaje continuo. Mi enfoque principal es el ecosistema **Java**, aunque disfruto trabajando en arquitecturas **Full Stack** que permitan entregar soluciones integrales y eficientes.
 
-- 💻 **Desarrollador Java Backend** con enfoque en el desarrollo de **APIs RESTful**, **Bases de Datos** y **Aplicaciones Web** modernas.
-Apasionado por el aprendizaje continuo y la mejora constante. Me gusta explorar a fondo cada nueva herramienta que aprendo y aplicarla en proyectos reales.
-    
-- 🚀 Actualmente en búsqueda de mi primera experiencia laboral en IT.
-He trabajado en diversos proyectos académicos y personales utilizando tecnologías modernas del ecosistema Java.
+<br>
 
+## 🛠 Stack Tecnológico
 
-## 🧠 **Conocimientos**: 
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend & Arquitectura** | Java (8+), Spring Boot 3, Spring Data JPA, Spring Security (JWT), Hibernate |
+| **Bases de Datos** | MySQL, PostgreSQL, MongoDB |
+| **Infraestructura & Control** | Git, Docker |
+| **Frontend & Web** | Angular, React, Next.js, Tailwind CSS |
+| **Jakarta EE** | JAX-RS (REST), JAX-WS (SOAP), EJB 4, CDI, JSF, Servlets, JDBC, JAAS |
 
-🔸 **Programación en Java**
-- Programación orientada a objetos (POO)
-- Programación funcional (Java 8, Expresiones Lambda, API Stream)
-- Manejo de errores y excepciones
-- Programación concurrente y manejo de hilos (Threads)
-- Principios SOLID y patrones de diseño
-- Pruebas unitarias: JUnit 5, Mockito
+<br>
 
-🔸 **Bases de datos**
-  - SQL: MySQL
-  - NoSQL: MongoDB
+## 📬 Contacto
 
-🔸 **Desarrollo Web**
-  - **Jakarta EE 9**:
-    - Servlets / JSP
-    - JDBC
-    - CDI (Weld)
-    - EJB 4
-    - JAX-RS (RESTful APIs), JAX-WS (SOAP)
-    - JSF, PrimeFaces
-    - Seguridad con JAAS
-  - **Spring Framework**:
-    - Spring Framework 6 y Spring Boot 3
-    - Spring Data JPA
-    - Spring Security
-    - Desarrollo Full Stack Angular
-    - Desarrollo Full Stack React
-
-## Contacto:
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/cristian-alejandro-cristaldo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="crisstiann.c@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
+<div align="left">
+  <a target="_blank" href="https://portafolio-cristaldo-cristian.vercel.app/">
+    <img src="https://img.shields.io/badge/-Mi_Portafolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portafolio">
+  </a>
+  &emsp;
+  <a target="_blank" href="https://www.linkedin.com/in/cristian-alejandro-cristaldo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &emsp;
+  <a target="_blank" href="mailto:crisstiann.c@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
