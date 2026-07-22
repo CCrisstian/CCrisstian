@@ -6,7 +6,7 @@
 
 <br>
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy un **Desarrollador Backend** de Argentina, apasionado por la creación de APIs robustas, arquitecturas escalables y el aprendizaje continuo. Mi enfoque principal es el ecosistema **Java**, aunque disfruto trabajando en arquitecturas **Full Stack** que permitan entregar soluciones integrales y eficientes.
 
