@@ -12,7 +12,7 @@ Soy un **Desarrollador Backend** de Argentina, apasionado por la creación de AP
 
 <br>
 
-## 🛠 Stack Tecnológico
+## Stack Tecnológico
 
 | Área | Tecnologías |
 | :--- | :--- |
